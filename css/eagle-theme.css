@@ -1,4 +1,4 @@
- .img-size{width: 70px;height: 70px}
+  .img-size{width: 70px;height: 70px}
   .logo{width: 60px; position: absolute;top:20px;left:320px}
  .bg-blue{ background-color:#0275D8}
  .bg-orange{background-color:#fd8b29 }
@@ -6,7 +6,7 @@
  .h-3{height: 1rem}
  .bb{border-bottom: 5px solid #fd8b29}
  .bg {
-     background-image: url(./img/city-3232488_1920e.jpg);
+     background-image: url(../img/city-3232488_1920e.jpg);
      height: 500px;
      background-repeat: no-repeat;
      background-size: cover;
@@ -26,3 +26,4 @@ h1-f{font-size: 3rem}
 
 /*Small devices (landscape phones, less than 768px)*/
 @media (max-width: 767.98px) {h1{font-size: 1.8rem}.img-size{width: 70px;height: 70px}}
+
