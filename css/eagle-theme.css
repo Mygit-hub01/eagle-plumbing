@@ -6,7 +6,7 @@
  .h-3{height: 1rem}
  .bb{border-bottom: 5px solid #fd8b29}
  .bg {
-     background-image: url(img/city-3232488_1920e.jpg);
+     background-image: url(../img/city-3232488_1920e.jpg);
      height: 500px;
      background-repeat: no-repeat;
      background-size: cover;
